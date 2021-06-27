@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "c26961af0532c86b",
+    "type": "split",
+    "children": [
+      {
+        "id": "798abcf2fe115bca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Алгоритм для всех перестановок.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70a7f7ce6cfa36ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d3d742edb59287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9447ef4b7d8a0fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fba2a7509445e5eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ab63b927e0f64f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2473517645e3a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5cb23216c719bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Алгоритм для всех перестановок.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "798abcf2fe115bca",
+  "lastOpenFiles": [
+    "Алгоритм для всех перестановок.md",
+    "zettelkasten.md",
+    "vanilla-extract.md",
+    "Node Async hooks.md",
+    "Экономика.md",
+    "Алгоритм Скользящее окно.md",
+    "assets/XKYl9.png",
+    "Untitled.md",
+    "Сбока дистрибутива Linux.md",
+    "nodejs.md"
+  ]
+}
